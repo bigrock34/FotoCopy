@@ -1,5 +1,5 @@
 # FotoCopy
-Repositorio de FotoCopy, un programa escrito en Python para copiar o mover tus fotos y videos. 
+Repositorio de FotoCopy, un programa escrito en Python para copiar o mover tus fotos y videos. (EN DESARROLLO)
 
 # REQUISITOS
 
@@ -17,6 +17,3 @@ Hay que seleccionar una ruta de origen y una de destino. ejemplo:
 
 El programa creara la misma estructura de carpetas en las que se encuentren las imagenes.
 
-# AUTOR
-
-Iván Pedrón
