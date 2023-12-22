@@ -5,6 +5,10 @@ Repositorio de FotoCopy, un programa escrito en Python para copiar o mover tus f
 
 Tener Python instalado. Lo podeis descargar copiando y pegando esta URL en el navegador: https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe
 
+# COMO DESCARGAR Y EJECUTAR EL PROGRAMA
+
+Descargad el ZIP y extraedlo. Despues clickad en el archivo Fotocopy.py para lanzarlo
+
 # COMO FUNCIONA
 
 Hay que seleccionar una ruta de origen y una de destino. ejemplo: 
