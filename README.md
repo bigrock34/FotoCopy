@@ -7,7 +7,7 @@ Tener Python instalado. Lo podeis descargar copiando y pegando esta URL en el na
 
 # COMO DESCARGAR Y EJECUTAR EL PROGRAMA
 
-Descargad el ZIP y extraedlo. Despues clickad en el archivo Fotocopy.py para lanzarlo
+Clickar en el boton verde que dice "CODE", Descargar el ZIP y extraerlo. Despues clickar en el archivo Fotocopy.py para empezar el programa.
 
 # COMO FUNCIONA
 
